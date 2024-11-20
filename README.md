@@ -1,6 +1,6 @@
  # Welcome to My GitHub Profile! 
 
-Hello! I'm Anzhelika, a technology enthusiast with a passion for learning various programming languages and developer tools. My journey started with exploring diverse fields, but lately, I've been focused on honing my skills in Salesforce technology, aiming to become a Salesforce Developer.
+Hello! I'm Anzhelika and I like Salesforce! Learning something new in this area and being able to use my skills in a real commercial project gives me great satisfaction. Therefore, I have a strong motivation and desire to become part of a team where I could grow and also take part in improving a common product. As Salesforce Developer, I offer knowledge and skills in Apex, LWC, Visualforce, SOQL & SOSL and other functionalities and platform tools. 
 
 ## Current Interests
 
