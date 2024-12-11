@@ -5,7 +5,9 @@ Hello! I'm Anzhelika and I like Salesforce! That is why I am passionate about le
 As Salesforce Developer,  I offer knowledge and practical skills in Apex, LWC, Visualforce, SOQL & SOSL, declarative automation, API integration, and other functionalities and platform tools. 
 
 🏢 **Experience**: Junior Salesforce Developer with hands-on expertise in Salesforce technologies.
+
 🎓 **Education**: Master's degree in International Relations with a specialization in Asian studies.
+
 📚 **Certifications**: Salesforce Platform Developer I (December 2024)
 
 ## Technical Skills
